@@ -1,0 +1,148 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Lab22Q2",
+            "request": "launch",
+            "mainClass": "Lab22Q2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Lab22Q1",
+            "request": "launch",
+            "mainClass": "Lab22Q1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Lab4Q1",
+            "request": "launch",
+            "mainClass": "Lab4Q1",
+            "projectName": "cse114_264d3d1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Lab4Q2",
+            "request": "launch",
+            "mainClass": "Lab4Q2",
+            "projectName": "cse114_264d3d1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ConnectFour",
+            "request": "launch",
+            "mainClass": "ConnectFour"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Problem1",
+            "request": "launch",
+            "mainClass": "Problem1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Problem2",
+            "request": "launch",
+            "mainClass": "Problem2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Program1",
+            "request": "launch",
+            "mainClass": "Program1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Lab21Q2",
+            "request": "launch",
+            "mainClass": "Lab21Q2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Lab21Q1",
+            "request": "launch",
+            "mainClass": "Lab21Q1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Lab21Q1",
+            "request": "launch",
+            "mainClass": "Lab21Q1",
+            "projectName": "cse114_264d3d1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Lab20Q2",
+            "request": "launch",
+            "mainClass": "Lab20Q2",
+            "projectName": "cse114_264d3d1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Lab20Q1",
+            "request": "launch",
+            "mainClass": "Lab20Q1",
+            "projectName": "cse114_264d3d1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestCourse",
+            "request": "launch",
+            "mainClass": "TestCourse",
+            "projectName": "cse114_264d3d1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - HeadsAndTails",
+            "request": "launch",
+            "mainClass": "HeadsAndTails",
+            "projectName": "cse114_264d3d1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Lab19Q2",
+            "request": "launch",
+            "mainClass": "Lab19Q2",
+            "projectName": "cse114_264d3d1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Lab19Q1",
+            "request": "launch",
+            "mainClass": "Lab19Q1",
+            "projectName": "cse114_264d3d1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Lab18Q1",
+            "request": "launch",
+            "mainClass": "Lab18Q1",
+            "projectName": "cse114_264d3d1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Lab17Q2",
+            "request": "launch",
+            "mainClass": "Lab17Q2",
+            "projectName": "cse114_264d3d1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Lab17Q1",
+            "request": "launch",
+            "mainClass": "Lab17Q1",
+            "projectName": "cse114_264d3d1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Q3Location",
+            "request": "launch",
+            "mainClass": "Q3Location"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Q1Rational",
+            "request": "launch",
+            "mainClass": "Q1Rational"
+        }
+    ]
+}
