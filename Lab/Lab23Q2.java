@@ -20,12 +20,13 @@ public class Lab23Q2
         {
             c.add(fs.next());
         }
+        fs.close();
         File output = new File("output.txt");
         FileWriter fw2 = new FileWriter(output, false);
         PrintWriter pw2 = new PrintWriter(fw2);
         for (int i=c.size()-1;i>=0;i--)
         {
-            pw2.println(c.get(i));
+            pw2.print(c.get(i) + " ");
         }
             
         pw2.flush();

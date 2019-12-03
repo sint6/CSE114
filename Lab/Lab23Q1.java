@@ -20,6 +20,7 @@ public class Lab23Q1
                     num++;
                     total += f.nextInt();
                 }
+                f.close();
             }
             catch (IOException ioe)
             {}
@@ -29,5 +30,6 @@ public class Lab23Q1
         }
         else
             System.out.print("File " + file + " does not exist");
+        input.close();
     }
 }
