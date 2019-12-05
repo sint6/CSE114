@@ -1,0 +1,10 @@
+Dallas
+Houston
+Chicago
+Tampa
+San Francisco
+Miami
+Charlotte
+Austin
+New York
+Seattle
